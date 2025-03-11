@@ -1,1 +1,1 @@
-# Nuku
+Nuku is an online store for hiking equipment in New Zealand, built using AWS services like API Gateway, S3, DynamoDB, and Lambda. The project focuses on creating a secure and user-friendly platform with efficient order management and a commitment to sustainable practices.
